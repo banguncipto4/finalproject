@@ -1,0 +1,109 @@
+
+.index-banner {
+    background:url(https://romantic-bassi-f50129.netlify.app/images/banner.jpg)no-repeat;
+
+    padding: 10px 0;
+}
+
+.wmuSlider {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+
+.wmuSlider .wmuSliderWrapper article {
+    text-align: center;
+}
+
+.banner-wrap {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* slider */
+.slider-left {
+    float: left;
+    padding-top: 6%;
+    width: 47.5%;
+}
+
+.slider-left h3 {
+    font-size: 4em;
+    color: #000;
+    background: #ffea00;
+    font-family: "Century Gothic";
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    width: 70%;
+    font-weight: 600;
+    float: none;
+}
+
+.slider-left h4 {
+    font-size: 4em;
+    color: #000;
+    background: #ffea00;
+    font-family: "Century Gothic";
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+p.top {
+    color: #fff;
+    font-size: 1.7em;
+    line-height: 1.5em;
+    font-family: "Century Gothic";
+    background: #414146;
+    text-align: left;
+    padding: 0px 10px;
+    width: 68%;
+    margin-bottom: 1px;
+}
+
+p.middle {
+    color: #fff;
+    font-size: 1.7em;
+    line-height: 1.5em;
+    font-family: "Century Gothic";
+    background: #414146;
+    text-align: left;
+    padding: 0px 10px;
+    width: 64%;
+    margin-bottom: 1px;
+}
+
+p.bottom {
+    color: #fff;
+    font-size: 1.7em;
+    line-height: 1.5em;
+    font-family: "Century Gothic";
+    background: #414146;
+    text-align: left;
+    padding: 0px 10px;
+    width: 56%;
+}
+
+.slider-right {
+    width: 52.5%;
+    float: left;
+}
+
+.wmuSlider .wmuSliderWrapper article img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* button */
+
+.btn-8 {
+    display: block;
+    background: #000;
+    font-size: 0.99em;
+    font-family: "Century Gothic",Arial, Helvetica, sans-serif;
+    transform-style: preserve-3d;
+}
